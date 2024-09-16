@@ -12,9 +12,6 @@ Meu e-mail: phsouzalacerda@gmail.com
 
 Link para o meu Linkedin: [Link](https://www.linkedin.com/in/pedro-lacerda-aa76a8282/)
 
-
-![](https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif)
-
 ## Atualmente aprendendo
 
 Tecnologias Front-end
