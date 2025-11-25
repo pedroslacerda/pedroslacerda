@@ -2,7 +2,7 @@
 
 Meu nome é Pedro Henrique
 
--Estou estudando o básico sobre programação
+-Estou estudando programação
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
